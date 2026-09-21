@@ -1,0 +1,1 @@
+import{Link}from'react-router-dom';export default function Home(){return <main className="hero"><div><h1>Pharmacy Management System</h1><p>Browse medicines, manage your cart and place orders in this college-level MERN project.</p><Link className="btn" to="/medicines">Browse Medicines</Link></div></main>}
